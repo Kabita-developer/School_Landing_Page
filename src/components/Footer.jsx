@@ -95,7 +95,7 @@ const Footer = () => {
           <p className="text-[10px] text-blue-300 font-medium tracking-wide">
             ©2024 William Austin Junior School. All rights reserved. 
             <span className="mx-2 opacity-50">|</span> 
-            Designed with excellence by Brothers Creative
+            Developed by Cricocode Technologies Pvt Ltd
           </p>
           <div className="flex items-center gap-8">
             <div className="flex gap-1">
